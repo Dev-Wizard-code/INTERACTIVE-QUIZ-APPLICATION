@@ -27,6 +27,8 @@ To build a real-time chat application, we will use WebSockets for live message e
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/22845815-c718-44c1-957d-8b245ee5c62d)
+
 
 ---
 
