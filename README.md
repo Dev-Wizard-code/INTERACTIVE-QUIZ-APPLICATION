@@ -49,7 +49,7 @@ To design the front-end for an E-learning platform with course listing, progress
 
 output
 
-![Image](https://github.com/user-attachments/assets/da7a875f-0258-41ae-96ae-82c6df7f3657)
+![Image](https://github.com/user-attachments/assets/fde5d992-4c50-44f8-a156-1cd9acf17643)
 
 
 ---
